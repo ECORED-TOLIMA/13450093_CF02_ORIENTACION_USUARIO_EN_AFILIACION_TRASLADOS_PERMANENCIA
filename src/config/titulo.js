@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Gestión para la afiliación a los planes de beneficio en salud'
