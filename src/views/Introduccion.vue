@@ -8,6 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4
         figure
@@ -16,8 +17,9 @@
         p Este componente formativo pretende que los aprendices del SENA desarrollen las competencias necesarias para gestionar de manera eficiente y efectiva la afiliación a los Planes de Beneficio en Salud (PBS), siguiendo los procedimientos establecidos por el sistema de salud colombiano. Esto implica comprender y aplicar correctamente los pasos requeridos, según el tipo de usuario (afiliado, beneficiario, empleador) y el régimen al que pertenezca (contributivo, subsidiado, especial). Además, busca que puedan identificar las diferentes etapas del proceso, asegurando que la afiliación se realice de forma oportuna y en cumplimiento con las normativas vigentes, para garantizar una atención adecuada a los usuarios. 
         .cajon.color-primario.p-4
           p.mb-0 Al adquirir estos conocimientos y habilidades, estarán mejor preparados para desempeñarse en roles administrativos o de gestión en instituciones de salud, contribuyendo a mejorar la calidad del servicio y promoviendo la protección social en salud. Este componente fomenta la responsabilidad y el compromiso con la correcta gestión del sistema de salud en Colombia.
+    
     p Este enfoque integral busca fortalecer competencias que contribuyan a mejorar la experiencia del usuario y la eficiencia en la prestación de servicios de salud en Colombia.
-    p.mb-4 Partiendo de lo anterior, se invita a que acceda al siguiente video, el cual relaciona la temática a tratar durante este componente formativo:
+    p.mb-5 Partiendo de lo anterior, se invita a que acceda al siguiente video, el cual relaciona la temática a tratar durante este componente formativo:
 
     .row.justify-content-center.align-items-center           
       .col-lg-12
