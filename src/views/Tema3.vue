@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')
       .col-lg-7(data-aos="fade-right")
         .cajon.color-primario.p-4.mb-3
-          p.mb-0 Es un portal creado con el propósito de facilitar Este sistema suele estar compuesto por varias funciones clave:a los ciudadanos la afiliación al Sistema General de Seguridad Social en Salud y a los afiliados el reporte de sus novedades.
+          p.mb-0 Es un portal creado con el propósito de facilitar a los ciudadanos la afiliación al Sistema General de Seguridad Social en Salud y a los afiliados el reporte de sus novedades.
         p Como afiliado se tiene disponible la consulta del estado actual de la afiliación, el historial de inscripciones que se haya realizado a diferentes EPS, el reporte de traslado para el usuario y todo el grupo familiar, la inclusión y exclusión de beneficiarios, la actualización de datos complementarios y del documento de identidad, entre otras.
         p Por su parte, los empleadores, entidades e instituciones, pueden registrar el rol de:
         ul.lista-ul--color
@@ -84,7 +84,7 @@
           .row
             .col-lg-5.order-2.order-lg-1
               h4 Recolección de información
-              p.mb-0 La entidad responsable debe recopilar los datos de todos los integrantes del grupo que van a afiliarse. Esto incluye nombres completos, documentos 
+              p.mb-0 La entidad responsable debe recopilar los datos de todos los integrantes del grupo que van a afiliarse. Esto incluye nombres completos, documentos de identidad, fechas de nacimiento, sexo, dirección, y otros datos relevantes.
             .col-lg-6.mb-lg-0.mb-4.order-1.order-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img8.png', alt='Texto que describa la imagen')
@@ -132,7 +132,7 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  3.2 Etapa de recolección de información en el proceso de afiliación colectiva
     
-    p.mb-5 La recolección de información es súper importante para asegurarse de que todos los beneficiarios estén bien inscritos y puedan acceder a los servicios de salud sin problemas. Esto implica que la entidad responsable, como una empresa o institución, recopile todos los datos necesarios de las personas que van a estar en el sistema de salud, ya sea usando formularios físicos, digitales o plataformas en línea autorizadas por las EPS o el Ministerio de Salud. Es fundamental que la información sea precisa y completa para evitar errores en la afiliación y que la atención médica sea correcta. Los datos que suelen recopilar incluyen nombres completos, número de documento de identidad (como cédula o NIT), fecha de nacimiento, sexo, dirección de residencia, estado civil, información de contacto (teléfono y correo), datos laborales (cargo, salario, tipo de contrato) y otros detalles adicionales como grupo sanguíneo, antecedentes médicos o condiciones especiales que requieran atención particular.
+    p.mb-5 La recolección de información es superimportante para asegurarse de que todos los beneficiarios estén bien inscritos y puedan acceder a los servicios de salud sin problemas. Esto implica que la entidad responsable, como una empresa o institución, recopile todos los datos necesarios de las personas que van a estar en el sistema de salud, ya sea usando formularios físicos, digitales o plataformas en línea autorizadas por las EPS o el Ministerio de Salud. Es fundamental que la información sea precisa y completa para evitar errores en la afiliación y que la atención médica sea correcta. Los datos que suelen recopilar incluyen nombres completos, número de documento de identidad (como cédula o NIT), fecha de nacimiento, sexo, dirección de residencia, estado civil, información de contacto (teléfono y correo), datos laborales (cargo, salario, tipo de contrato) y otros detalles adicionales como grupo sanguíneo, antecedentes médicos o condiciones especiales que requieran atención particular.
     
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
@@ -152,7 +152,7 @@
           .tarjeta.color-acento-contenido.p-3(x="92%" y="65%" numero="+")
             p.mb-0 En oficinas o sedes de la entidad responsable, llenando formularios en papel que luego se ingresan en el sistema.
           .tarjeta.color-acento-contenido.p-3(x="49%" y="42%" numero="+")
-            p.mb-0 A través de plataformas en línea, portales web o aplicaciones móviles, donde los beneficiarios o responsables ingresan la información directamente.
+            p.mb-0 A través de plataformas en línea, portales #[i web] o aplicaciones móviles, donde los beneficiarios o responsables ingresan la información directamente.
           .tarjeta.color-acento-contenido.p-3(x="5%" y="65%" numero="+")
             p.mb-0 En algunos casos, se puede acceder a información previa si la persona ya está registrada en otros sistemas, siempre y cuando se tenga autorización y se garantice la protección de datos personales.
         .cajon.color-primario.p-4.mb-4
@@ -254,7 +254,7 @@
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema3/img25.png')})`}" data-aos="fade-left"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Es un aporte en dinero que corresponde a una parte del valor del servicio que se pide, con el fin de ayudar a financiar el sistema y lo pagan los afiliados beneficiarios tanto en el régimen contributivo como en el subsidiado. Todos los servicios y tecnologías en salud que se brinden en el SGSSS tienen copagos, excepto los servicios que llevan cuotas moderadoras o los que están exceptuados, como algunos tratamientos odontológicos, terapias y otros servicios complementarios que puedes consultar en la herramienta MIPRES.
+        p.mb-0 Es un aporte en dinero que corresponde a una parte del valor del servicio que se pide, con el fin de ayudar a financiar el sistema y lo pagan los afiliados beneficiarios tanto en el régimen contributivo como en el subsidiado. Todos los servicios y tecnologías en salud que se brinden en el SGSSS tienen copagos, excepto los servicios que llevan cuotas moderadoras o los que están exceptuados, como algunos tratamientos odontológicos, terapias y otros servicios complementarios que puede consultar en la herramienta MIPRES.
     
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
@@ -277,7 +277,7 @@
           ul.lista-ul--color
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Atención en el servicio de urgencias para los pacientes clasificados en las categorías de triage I, II, y III.
+              | Atención en el servicio de urgencias para los pacientes clasificados en las categorías de #[i triage] I, II, y III.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
               | Eventos y servicios de alto costo: trasplantes (renal, corazón, hígado, médula ósea, páncreas, pulmón, intestino, multivisceral y córnea).
@@ -298,7 +298,7 @@
               | Atención integral para los reemplazos articulares.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Eventos y servi Atención integral para los reemplazos articulares.
+              | Eventos y atención integral para los reemplazos articulares.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
               | Atención integral del gran quemado, incluyendo cirugía plástica, internación y rehabilitación.

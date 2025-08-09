@@ -73,6 +73,9 @@
               li(data-aos="fade-right")
                 i.fas.fa-check
                 | Alteraciones nutricionales en personas menores de 5 años (anemia o desnutrición aguda).
+              li(data-aos="fade-right")
+                i.fas.fa-check
+                | Problemas o trastornos mentales.
         ul.lista-ul--color
           li(data-aos="fade-right")
             i.fas.fa-hand-point-right

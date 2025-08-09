@@ -49,7 +49,7 @@
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema2/img4.svg' alt='Imagen decorativa')
         h5.text-center Cobertura
-        p.text-center.mb-0 El Plan de Beneficios en Salud (PBS,) cubre una amplia gama de servicios médicos, incluyendo atención primaria, especializada, hospitalaria, medicamentos, procedimientos diagnósticos y terapéuticos.
+        p.text-center.mb-0 El Plan de Beneficios en Salud (PBS) cubre una amplia gama de servicios médicos, incluyendo atención primaria, especializada, hospitalaria, medicamentos, procedimientos diagnósticos y terapéuticos.
       .tarjeta.tarjeta--BG02.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-lg-6.col-sm-4.col-6
@@ -246,7 +246,7 @@
     .titulo.mb-5(data-aos="fade-left")
         h5.mb-0 •	Afiliación de oficio al régimen subsidiado
     
-    p.mb-5 Es un instrumento que se crea a partir de lo establecido en el artículo 4 del Decreto 064 de 2020, el cual busca la afiliación de aquella población que se encuentre sin aseguramiento en salud en el SGSSS o con la novedad de terminación de la inscripción en una EPS y que no le ha haya sido aplicada la encuesta Sisbén. Dicha afiliación la puede realizar directamente la IPS, si entrase por una atención en salud o la entidad territorial si es focalizada por esta entidad, conforme a las siguientes reglas:
+    p.mb-5 Es un instrumento que se crea a partir de lo establecido en el artículo 4 del Decreto 064 de 2020, el cual busca la afiliación de aquella población que se encuentre sin aseguramiento en salud en el SGSSS o con la novedad de terminación de la inscripción en una EPS y que no le haya sido aplicada la encuesta Sisbén. Dicha afiliación la puede realizar directamente la IPS, si entrase por una atención en salud o la entidad territorial si es focalizada por esta entidad, conforme a las siguientes reglas:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="fade-left")
@@ -271,7 +271,7 @@
                 img(src='@/assets/curso/temas/tema2/img19.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="4" titulo="Elección EPS")          
             .col-lg-12.order-lg-2.order-3
-              p.mb-0 La persona deberá elegir la EPS, de no hacerlo, el Sistema de Afiliación Transaccional seleccionará la EPS que tenga mayor cobertura en la jurisdicción. La entidad territorial o la institución prestadora de Servicios de Salud le informara a la persona dicha inscripción.
+              p.mb-0 La persona deberá elegir la EPS, de no hacerlo, el Sistema de Afiliación Transaccional seleccionará la EPS que tenga mayor cobertura en la jurisdicción. La entidad territorial o la institución prestadora de Servicios de Salud le informará a la persona dicha inscripción.
             .col-lg-12.order-lg-3.order-1.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema2/img20.png', alt="Imagen decorativa")
