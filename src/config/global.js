@@ -1,10 +1,10 @@
 export default {
   global: {
-    Name: 'Gestión para la afiliación a los planes de beneficio en salud',
+    Name: 'Gestión para la afiliación a los Planes de Beneficios en Salud',
     componenteFormativo:
-      'Gestión para la afiliación a los planes de beneficio en salud',
+      'Gestión para la afiliación a los Planes de Beneficios en Salud',
     descripcionCurso:
-      'Este componente permite a los aprendices entender cómo gestionar la afiliación a los Planes de Beneficio en Salud (PBS), según procedimiento, usuario y régimen. Esto asegura cumplir con las normativas, brindar atención eficiente, adaptar el proceso a diferentes regímenes y mejorar la gestión administrativa. ',
+      'Este componente permite a los aprendices entender cómo gestionar la afiliación a los Planes de Beneficios en Salud (PBS), según procedimiento, usuario y régimen. Esto asegura cumplir con las normativas, brindar atención eficiente, adaptar el proceso a diferentes regímenes y mejorar la gestión administrativa. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

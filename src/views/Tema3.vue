@@ -160,7 +160,7 @@
     
     .titulo.mb-5(data-aos="fade-left")
       img(src='@/assets/curso/icono.svg', alt='Imagen decorativa')
-      h5.mb-0 Gastos derivados de los planes de beneficio
+      h5.mb-0 Gastos derivados de los planes de beneficios
     
     p.mb-5 Los costos asociados a la prestación de los servicios y beneficios que reciben los afiliados en el sistema de salud, son los gastos que las EPS y las instituciones de salud deben cubrir para poder brindar atención. Estos gastos se dividen en varias categorías principales: 
 
@@ -277,7 +277,7 @@
           ul.lista-ul--color
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
-              | Atención en el servicio de urgencias para los pacientes clasificados en las categorías de #[i triage] I, II, y III.
+              p.mb-0 Atención en el servicio de urgencias para los pacientes clasificados en las categorías de #[i triage] I, II, y III.
             li(data-aos="fade-left")
               i.fas.fa-hand-point-right
               | Eventos y servicios de alto costo: trasplantes (renal, corazón, hígado, médula ósea, páncreas, pulmón, intestino, multivisceral y córnea).

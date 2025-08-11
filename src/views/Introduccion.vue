@@ -14,7 +14,7 @@
         figure
           img(src='@/assets/curso/temas/intro/img1.png', alt='Imagen decorativa')
       .col-lg-8
-        p Este componente formativo pretende que los aprendices del SENA desarrollen las competencias necesarias para gestionar de manera eficiente y efectiva la afiliación a los Planes de Beneficio en Salud (PBS), siguiendo los procedimientos establecidos por el sistema de salud colombiano. Esto implica comprender y aplicar correctamente los pasos requeridos, según el tipo de usuario (afiliado, beneficiario, empleador) y el régimen al que pertenezca (contributivo, subsidiado, especial). Además, busca que puedan identificar las diferentes etapas del proceso, asegurando que la afiliación se realice de forma oportuna y en cumplimiento con las normativas vigentes, para garantizar una atención adecuada a los usuarios. 
+        p Este componente formativo pretende que los aprendices del SENA desarrollen las competencias necesarias para gestionar de manera eficiente y efectiva la afiliación a los Planes de Beneficios en Salud (PBS), siguiendo los procedimientos establecidos por el sistema de salud colombiano. Esto implica comprender y aplicar correctamente los pasos requeridos, según el tipo de usuario (afiliado, beneficiario, empleador) y el régimen al que pertenezca (contributivo, subsidiado, especial). Además, busca que puedan identificar las diferentes etapas del proceso, asegurando que la afiliación se realice de forma oportuna y en cumplimiento con las normativas vigentes, para garantizar una atención adecuada a los usuarios. 
         .cajon.color-primario.p-4
           p.mb-0 Al adquirir estos conocimientos y habilidades, estarán mejor preparados para desempeñarse en roles administrativos o de gestión en instituciones de salud, contribuyendo a mejorar la calidad del servicio y promoviendo la protección social en salud. Este componente fomenta la responsabilidad y el compromiso con la correcta gestión del sistema de salud en Colombia.
     
@@ -25,8 +25,9 @@
       .col-lg-12
         figure
           .video
-            iframe(width="1493" height="840" src="https://www.youtube.com/embed/yJ1Q2Of0DL4" title="Gestión para la afiliación a los planes de beneficio en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-         
+            iframe(width="1493" height="840" src="https://www.youtube.com/embed/QsLPIkuIqqY" title="Gestión para la afiliación a los Planes de Beneficios en Salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+        figcaption Video: Gestión para la afiliación a las Planes de Beneficios en Salud
+
 </template>
 
 <script>

@@ -1,1 +1,1 @@
-module.exports = 'Gestión para la afiliación a los planes de beneficio en salud'
+module.exports = 'Gestión para la afiliación a los Planes de Beneficios en Salud'
