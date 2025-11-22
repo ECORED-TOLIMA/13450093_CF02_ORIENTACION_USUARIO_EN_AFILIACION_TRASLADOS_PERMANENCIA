@@ -6,7 +6,6 @@ export default {
     descripcionCurso:
       'Este componente permite a los aprendices entender cómo gestionar la afiliación a los Planes de Beneficios en Salud (PBS), según procedimiento, usuario y régimen. Esto asegura cumplir con las normativas, brindar atención eficiente, adaptar el proceso a diferentes regímenes y mejorar la gestión administrativa. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

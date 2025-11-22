@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img1.png', alt='Imagen decorativa')
       .col-lg-7(data-aos="fade-right")
-        .cajon.color-primario.p-4.mb-3
+        .cajon.color-primario.p-4.mb-4
           p.mb-0 Es un portal creado con el propósito de facilitar a los ciudadanos la afiliación al Sistema General de Seguridad Social en Salud y a los afiliados el reporte de sus novedades.
         p Como afiliado se tiene disponible la consulta del estado actual de la afiliación, el historial de inscripciones que se haya realizado a diferentes EPS, el reporte de traslado para el usuario y todo el grupo familiar, la inclusión y exclusión de beneficiarios, la actualización de datos complementarios y del documento de identidad, entre otras.
         p Por su parte, los empleadores, entidades e instituciones, pueden registrar el rol de:
@@ -28,31 +28,31 @@
     
     SlyderF.color-acento-botones.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta--BG02.color-primario.p-4
-        .row.justify-content-center.mb-3
+        .row.justify-content-center.mb-4
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img2.svg' alt='AvatarTop')
         h5.text-center Registro de afiliados
         p.text-center.mb-0 Permite registrar de manera formal y ordenada a las personas o entidades que desean unirse a un programa, servicio o plataforma. Esto incluye recopilar datos relevantes, verificar información y crear perfiles de afiliados.
       .tarjeta.tarjeta--BG02.color-primario.p-4
-        .row.justify-content-center.mb-3
+        .row.justify-content-center.mb-4
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img3.svg' alt='AvatarTop')
         h5.text-center Gestión de transacciones
         p.text-center.mb-0 Cada afiliación, actualización o cancelación se realiza mediante transacciones que quedan registradas en el sistema. Esto asegura un historial completo y transparente de todas las acciones relacionadas con los afiliados.
       .tarjeta.tarjeta--BG02.color-primario.p-4
-        .row.justify-content-center.mb-3
+        .row.justify-content-center.mb-4
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img4.svg' alt='AvatarTop')
         h5.text-center Seguridad y control
         p.text-center.mb-0 El SAT implementa mecanismos para garantizar la integridad y confidencialidad de los datos, así como para evitar fraudes o errores en las transacciones.
       .tarjeta.tarjeta--BG02.color-primario.p-4
-        .row.justify-content-center.mb-3
+        .row.justify-content-center.mb-4
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img5.svg' alt='AvatarTop')
         h5.text-center Automatización y eficiencia
         p.text-center.mb-0 Al automatizar procesos de afiliación y gestión, el sistema reduce errores humanos, acelera los procesos y mejora la experiencia tanto para los administradores como para los afiliados.
       .tarjeta.tarjeta--BG02.color-primario.p-4
-        .row.justify-content-center.mb-3
+        .row.justify-content-center.mb-4
           .col-lg-6.col-sm-4.col-6
             img(src='@/assets/curso/temas/tema3/img6.svg' alt='AvatarTop')
         h5.text-center Reportes y análisis
@@ -164,36 +164,36 @@
     
     p.mb-5 Los costos asociados a la prestación de los servicios y beneficios que reciben los afiliados en el sistema de salud, son los gastos que las EPS y las instituciones de salud deben cubrir para poder brindar atención. Estos gastos se dividen en varias categorías principales: 
 
-    .tarjeta--BG053.px-md-5.p-4.mb-5
-      .row.justify-content-center.align-items-center.my-lg-5.my-4
+    .tarjeta--BG053.px-md-5.px-4.pt-4.mb-5
+      .row.justify-content-center.align-items-center.mt-4
         .col-lg-8(data-aos="fade-left")
           SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-6")
             .tarjeta.bgblanco.p-4
-              .row.justify-content-center.mb-3
+              .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/temas/tema3/img15.svg' alt='AvatarTop')
               h5.text-center Atención médica y hospitalaria
               p.text-center Incluye consultas, cirugías, hospitalizaciones, emergencias y cuidados intensivos.
             .tarjeta.bgblanco.p-4
-              .row.justify-content-center.mb-3
+              .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/temas/tema3/img16.svg' alt='AvatarTop')
               h5.text-center Medicamentos e insumos
               p.text-center Medicinas, vacunas y materiales médicos necesarios para el tratamiento.
             .tarjeta.bgblanco.p-4
-              .row.justify-content-center.mb-3
+              .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/temas/tema3/img18.svg' alt='AvatarTop')
               h5.text-center Procedimientos diagnósticos
               p.text-center Abarcan exámenes de laboratorio, radiografías, resonancias y tomografías.
             .tarjeta.bgblanco.p-4
-              .row.justify-content-center.mb-3
+              .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/temas/tema3/img19.svg' alt='AvatarTop')
               h5.text-center Servicios de rehabilitación y terapias
               p.text-center Fisioterapia, terapia ocupacional y psicológica.
             .tarjeta.bgblanco.p-4
-              .row.justify-content-center.mb-3
+              .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/temas/tema3/img20.svg' alt='AvatarTop')
               h5.text-center Gastos administrativos
